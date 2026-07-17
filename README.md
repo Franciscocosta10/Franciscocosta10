@@ -9,7 +9,7 @@
 - APIs REST
 - Banco de Dados
 
-🔎 Atualmente busco oportunidades de estágio e posições Jr em QA e Tecnologia.
+🔎 Atualmente busco oportunidades de estágio e posições Jr em QA e Desenvolvimento.
 
 ## Tecnologias
 
