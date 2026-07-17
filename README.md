@@ -30,6 +30,6 @@
 
 ## Contato
 
-LinkedIn:www.linkedin.com/in/francisco-marcelo-caetano-costa-1206aa290
+LinkedIn: www.linkedin.com/in/francisco-marcelo-caetano-costa-1206aa290
 
-Email:francisco.caaetano@gmail.com
+Email: francisco.caaetano@gmail.com
