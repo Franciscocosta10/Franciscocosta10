@@ -1,35 +1,31 @@
-# Francisco Costa
+<h1 align="center">Olá! 👋</h1>
 
-🎓 Estudante de Engenharia de Software
+## 👨‍💻 Sobre mim
 
-💻 Tenho interesse em:
-- Quality Assurance (QA)
-- Testes de Software
-- Desenvolvimento Web
-- APIs REST
-- Banco de Dados
+- 🎓 Estudante de Engenharia de Software
+- 📍 Joinville - SC
+- 💼 Buscando oportunidade em QA / Analista de Sistemas
+- 🌱 Atualmente estudando Cypress, Playwright e Testes de Software
+- 💻 Experiência com Java, JavaScript, SQL e Git
 
-🔎 Atualmente busco oportunidades de estágio e posições Jr em QA e Desenvolvimento.
+---
 
-## Tecnologias
+## 🚀 Tecnologias
 
-- Java
-- JavaScript
-- Node.js
-- SQL
-- Git
-- HTML
-- CSS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,html,css,mysql,git,github,vscode" />
+</p>
 
-## Atualmente estudando
+---
 
-- Testes Automatizados
-- Cypress
-- Playwright
-- Robot Framework
+## 📫 Contato
 
-## Contato
+<p align="center">
+<a href="https://linkedin.com/in/SEU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-LinkedIn: www.linkedin.com/in/francisco-marcelo-caetano-costa-1206aa290
-
-Email: francisco.caaetano@gmail.com
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
