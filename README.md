@@ -34,8 +34,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Franciscocosta10&theme=github-dark" />
 </p>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
-
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql">
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300">
+</p>
