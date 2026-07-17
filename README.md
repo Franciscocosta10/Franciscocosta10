@@ -1,16 +1,34 @@
-## Hi there 👋
+#Francisco Costa
 
-<!--
-**Franciscocosta10/Franciscocosta10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Tenho interesse em:
+- Quality Assurance (QA)
+- Testes de Software
+- Desenvolvimento Web
+- APIs REST
+- Banco de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Atualmente busco oportunidades de estágio e posições Jr em QA e Tecnologia.
+
+## Tecnologias
+
+- Java
+- JavaScript
+- Node.js
+- SQL
+- Git
+- HTML
+- CSS
+
+## Atualmente estudando
+
+- Testes Automatizados
+- Cypress
+- Playwright
+- Robot Framework
+
+## Contato
+
+LinkedIn:www.linkedin.com/in/francisco-marcelo-caetano-costa-1206aa290
+Email:francisco.caaetano@gmail.com
