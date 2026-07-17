@@ -21,11 +21,11 @@
 ## 📫 Contato
 
 <p align="center">
-<a href="https://linkedin.com/in/SEU-LINK">
+<a href="https://linkedin.com/in/francisco-marcelo-caetano-costa-1206aa290">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:francisco.caaetano@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
