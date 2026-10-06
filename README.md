@@ -4,7 +4,6 @@
 
 - 🎓 Estudante de Engenharia de Software
 - 📍 Joinville - SC
-- 💼 Buscando oportunidade em QA / Desenvolvimento de Software
 - 🌱 Atualmente estudando Cypress, Playwright e Testes de Software
 - 💻 Experiência com Java, JavaScript, SQL e Git
 
